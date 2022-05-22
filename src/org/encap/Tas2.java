@@ -18,6 +18,7 @@ System.out.println("name");
 System.out.println("vijay");
 
 System.out.println("gggg");
+System.out.println("new");
 	
 	
 
