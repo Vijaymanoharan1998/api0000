@@ -15,9 +15,14 @@ System.out.println("age is"+li.get(0).getAge());
 System.out.println("name is"+li.get(0).getName());
 
 System.out.println("name");
+<<<<<<< HEAD
+
+System.out.println("ffff");
+=======
 System.out.println("vijay");
 
 System.out.println("gggg");
+>>>>>>> 6ac14cb04eb945a982473c842a375916d768ffba
 	
 	
 
