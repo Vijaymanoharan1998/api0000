@@ -16,6 +16,8 @@ System.out.println("name is"+li.get(0).getName());
 
 System.out.println("name");
 System.out.println("vijay");
+
+System.out.println("gggg");
 	
 	
 
